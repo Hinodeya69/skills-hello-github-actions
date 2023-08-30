@@ -50,4 +50,26 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
+Learn more
+Here are some links to more information on the topics we discussed in this module.
+https://learn.microsoft.com/en-us/training/modules/github-actions-automate-tasks/5-summary
+- GitHub Actions documentation
+- GitHub Marketplace
+- GitHub created actions
+- actions/checkout@v1
+- Metadata syntax for GitHub Actions
+- Workflow syntax for GitHub Actions
+- Events that trigger workflows
+- GitHub Actions usage limits
+- Introduction to Docker Containers
+- GitHub-hosted runners
+- Self-hosted runners
+- The components of GitHub Actions
+- Manual events
+- Webhook events and payloads
+- Disabling and enabling a workflow
+- Sharing workflows with your organization
+- Scheduled events
+
+
 </footer>
